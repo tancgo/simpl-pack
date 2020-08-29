@@ -1,1 +1,1 @@
-# simpl-pack
+# simple-pack
